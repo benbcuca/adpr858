@@ -1,0 +1,25 @@
+body {
+    margin: 0px 10%;
+    font-family: sans-serif;
+}
+header { 
+    background-color: #010c1f;
+    color: rgb(246, 246, 246)
+
+
+}
+h1 { 
+    font-size: 2rem;
+}
+h2 {
+    font-size: 1rem;
+}
+
+h3 { 
+    font-size: 1.25rem;
+}
+img {   
+    max-width: 100%;
+
+}
+
