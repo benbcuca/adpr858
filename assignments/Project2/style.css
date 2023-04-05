@@ -24,12 +24,12 @@ img {
 }
 
 a:link a:visited { 
- color:rgb(119, 61, 176);
+ color:rgb(247, 245, 249);
  text-decoration: none;
 }
 
 a:hover {
-color: rgb(54, 13, 93);
+color: rgb(103, 68, 135);
 text-decoration: underline;
 }
 
@@ -46,7 +46,7 @@ nav {
     background-color: #010c1f;
     padding: 0 1rem;
     display: flex;
-    justify-content: baseline;
+    justify-content: center;
 }
 
 
