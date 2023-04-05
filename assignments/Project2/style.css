@@ -23,3 +23,16 @@ img {
 
 }
 
+a:link { 
+ color:rgb(119, 61, 176);
+ text-decoration: none;
+
+}
+
+a:hover {
+color: rgb(54, 13, 93);
+text-decoration: underline;
+
+
+}
+
