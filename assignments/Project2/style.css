@@ -39,7 +39,14 @@ text-decoration: underline;
     padding: 1rem 1.75rem;
     border-radius: .5rem;
     box-shadow: 0 .125rem .5rem cornflowerblue;
-    
+
+}
+
+nav {
+    background-color: #010c1f;
+    padding: 0 1rem;
+    display: flex;
+    justify-content: baseline;
 }
 
 
