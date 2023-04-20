@@ -27,6 +27,9 @@
 .callout {
     padding: 3rem 0 2rem 0;
 }
+
+
+
 .work img {
     padding: .5rem;
     border: black 5px solid;
@@ -108,6 +111,14 @@ nav li a:hover {
 .container > *, .container_lg > * {
     grid-column: span 12;
 }
+
+.spacing {
+    margin: 4rem 0;
+}
+
+
+
+
 /* Media Queries for larger screens than 768px */
 @media screen and (min-width: 48rem) {
     
