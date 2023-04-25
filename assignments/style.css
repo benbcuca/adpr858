@@ -12,7 +12,7 @@
 .blue {
     background-color: var(--primary_color);
 }
-.white_text{
+.blue_text{
     color: rgb(98, 173, 226);
 }
 .center {
@@ -82,7 +82,7 @@ nav li a:visited {
     transition: background-color .2s ease-in-out;
 }
 nav li a:hover {
-    background-color: var(--highlight_color);
+    background-color: var(--seconday_color);
 }
 
 
