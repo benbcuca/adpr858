@@ -51,7 +51,7 @@ h3 {
     color: var(--neutral_light);
 }
 p {
-    color: var(--neutral_light);
+    color: var(--neutral_grey);
     line-height: 2rem;
 }
 img {
