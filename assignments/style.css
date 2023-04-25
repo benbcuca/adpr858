@@ -13,7 +13,7 @@
     background-color: var(--primary_color);
 }
 .white_text{
-    color: white;
+    color: rgb(98, 173, 226);
 }
 .center {
     text-align: center;
