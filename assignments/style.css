@@ -55,6 +55,7 @@ p {
     color: var(--neutral_grey);
     line-height: 2rem;
 }
+
 img {
     max-width: 100%; /* This makes all your images responsive */
 }
@@ -112,14 +113,25 @@ nav li a:hover {
     margin: 4rem 0;
 }
 
-.button:link, .button:visited {
-    color: rgb(250, 250, 251);
-    background-color: rgb(244, 244, 248);
-    padding: 1rem 1.75rem;
-    border-radius: .5rem;
-    box-shadow: 0 .125rem .5rem cornflowerblue;
 
-}
+a:link {
+    color: rgb(250, 245, 245);
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(244, 249, 244);
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(103, 88, 169);
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(242, 242, 247);
+  }
 
 /* Media Queries for larger screens than 768px */
 @media screen and (min-width: 48rem) {
