@@ -119,12 +119,12 @@ nav li a:hover {
 
 
 a:link {
-    color: rgb(46, 30, 193);
+    color: rgb(234, 234, 239);
   }
   
   /* visited link */
   a:visited {
-    color: rgb(244, 249, 244);
+    color: rgb(244, 244, 249);
 
   }
   
