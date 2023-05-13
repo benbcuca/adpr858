@@ -52,7 +52,7 @@ h3 {
     color: var(--neutral_light);
 }
 p {
-    color: var(--neutral_grey);
+    color: var(--seconday_color);
     line-height: 2rem;
 }
 
