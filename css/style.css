@@ -125,9 +125,14 @@ a:link {
         text-decoration: none;
      }
 
-.button {
-
-}
+     .button:link, .button:visited {
+        color: rgb(250, 250, 251);
+        background-color: rgb(244, 244, 248);
+        padding: 1rem 1.75rem;
+        border-radius: .5rem;
+        box-shadow: 0 .125rem .5rem cornflowerblue;
+    
+    }
   
   /* visited link */
   a:visited {
