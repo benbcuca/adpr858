@@ -119,8 +119,11 @@ nav li a:hover {
 
 
 a:link {
-    color: rgb(234, 234, 239);
-  }
+
+        color: rgb(67, 67, 216);
+    
+        text-decoration: none;
+     }
   
   /* visited link */
   a:visited {
