@@ -51,6 +51,9 @@ h2 {
 h3 {
     color: var(--seconday_color);
 }
+h4 {
+    color:#fff
+}
 p {
     color: var(--neutral_grey);
     line-height: 2rem;
