@@ -5,12 +5,19 @@
     <title>About Ben</title>
     <link href="css/style.css" rel="stylesheet">
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-1KFQ50Z41S"></script>
-<script>
+    <link href="css/lightbox.css" rel="stylesheet" />
+<script> src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+     <script>
+         $(document).ready(function(){
+         
+             });
+     </script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
   gtag('config', 'G-1KFQ50Z41S');
+
 </script>
 <script src="https://kit.fontawesome.com/4231c5ab73.js" crossorigin="anonymous"></script>
 </head>
@@ -39,7 +46,7 @@
     </article>
 
     <aside class="col-span-4">
-        <img src="images/KearlseyImage2.png" alt="Casual Photo of Ben and Sister">
+        <a href="images/KearlseyImage2.png" data-lightbox="image-2" data-title="Ben Photo 2"><img src="images/KearlseyImage2.png" alt="Ben Image"></a>
     </aside>  
 </div>
 
@@ -55,5 +62,6 @@
         <h4>Ben Cuca &copy; 2023</h4>
     </section>
 </footer> 
+<script src="js/lightbox.js"></script>
 </body>
 </html>
