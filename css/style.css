@@ -54,6 +54,10 @@ h3 {
 h4 {
     color:#fff
 }
+h5 {
+    color: #fff;
+    text-size-adjust: .5;
+}
 p {
     color: var(--neutral_grey);
     line-height: 2rem;
