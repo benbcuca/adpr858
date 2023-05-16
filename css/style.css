@@ -56,7 +56,7 @@ h4 {
 }
 h5 {
     color: #fff;
-    text-size-adjust: .5;
+    text-size-adjust: .25;
 }
 p {
     color: var(--neutral_grey);
